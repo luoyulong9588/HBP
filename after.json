@@ -1,0 +1,1163 @@
+{
+    "requestTime": 1661950388902,
+    "traceId": "52c1458b106dde1f",
+    "code": 200,
+    "data": {
+        "usedTime": 0,
+        "moduleList": [
+            {
+                "moduleTypeDesc": "单选题",
+                "moduleType": 1,
+                "questionList": [
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "充血性心力衰竭，分值=1；高血压，分值=1； 糖尿病，分值=1"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "血管性疾病，分值=1；脑卒中/TIA/血栓栓塞，分值=2"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "年龄65-74岁，分值=1；年龄≥75岁，分值=2；女性，分值=1"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "以上都是"
+                            }
+                        ],
+                        "code": "28814750",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "CHA2DS2-VASC评分目前广泛应用于心房颤动患者血栓栓塞风险的评价。该评分系统包括以下哪些内容？",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "1",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "<3.5mmol/L"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "<2.6mmol/L"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "<1.8mmol/L"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "<2.5mmol/L"
+                            }
+                        ],
+                        "code": "28814736",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "合并冠心病的2型糖尿病患者LDL控制目标",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "C"
+                        ],
+                        "questionNum": "2",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "二甲双胍的疗效与体重无关；"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "UKPDS研究结果证明二甲双胍可减少2型糖尿病患者心血管事件和死亡；"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "胃肠道反应是二甲双胍最常见的不良反应；"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "乳酸性酸中毒是双胍类药物严重但罕见的不良反应"
+                            }
+                        ],
+                        "code": "28814737",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "以下关于二甲双胍的描述错误的是",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "B"
+                        ],
+                        "questionNum": "3",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "DPP-4抑制剂"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "磺脲类药物"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "格列奈类药物"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "胰岛素"
+                            }
+                        ],
+                        "code": "28814738",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "单独使用不会导致低血糖的药物是",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "A"
+                        ],
+                        "questionNum": "4",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "患者的治疗意愿及治疗的费用;"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "药物的低血糖风险;"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "患者的重要合并疾病;"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "以上均是"
+                            }
+                        ],
+                        "code": "28814739",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "制定糖尿病患者血糖管理策略时，需要考虑",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "5",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "钠-葡萄糖协同转运蛋白2抑制剂"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "噻唑烷二酮"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "α糖苷酶抑制剂"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "甘精胰岛素"
+                            }
+                        ],
+                        "code": "28814740",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "目前证实可降低糖尿病患者心血管疾病风险的药物有",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "A"
+                        ],
+                        "questionNum": "6",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "阵发性房颤"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "持续性房颤"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "新发房颤"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "慢性房颤"
+                            }
+                        ],
+                        "code": "28814741",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "以下哪项不是目前指南中关于房颤分类的正确名称",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "C"
+                        ],
+                        "questionNum": "7",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "女性"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "年龄>75岁"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "高血压"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "糖尿病"
+                            }
+                        ],
+                        "code": "28814742",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "CHA2DS2-VASc评分中，以下哪项评分为2分",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "B"
+                        ],
+                        "questionNum": "8",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "高血压"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "糖尿病"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "年龄>65岁"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "脑中风病史"
+                            }
+                        ],
+                        "code": "28814743",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "HAS-BLED评分中不包括以下哪项",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "B"
+                        ],
+                        "questionNum": "9",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "华法林临床使用时，应根据国际化标准比值（INR）来调整剂量"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "华法林在临床使用中，其作用（INR值）极易受食物及药物的影响"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "华法林使用中如发现INR值3.5，应立刻停用华法林，给予维生素K拮抗"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "华法林长期使用中，应尽可能保证INR达标时间能在70%以上"
+                            }
+                        ],
+                        "code": "28814744",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "关于华法林的使用中，以下哪项是错误的",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "C"
+                        ],
+                        "questionNum": "10",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "房颤抗凝治疗中，低剂量达比加群颅内出血的风险低于华法林"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "房颤抗凝治疗中，高剂量达比加群预防栓塞的效果优于华法林"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "达比加群属于直接的凝血酶抑制剂"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "与华法林不同的是，目前没有针对达比加群导致出血后的特异拮抗剂"
+                            }
+                        ],
+                        "code": "28814745",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "关于新型口服抗凝药达比加群，以下哪项是错误的",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "11",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "脑卒中"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "心力衰竭"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "认知功能减退、血管性痴呆、抑郁"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "以上都是"
+                            }
+                        ],
+                        "code": "28814746",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "心房颤动的临床表现及危害包括哪些？",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "12",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "P波消失"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "出现频率350～600次/分不规则的f波"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "R-R间期绝对不等"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "以上都是"
+                            }
+                        ],
+                        "code": "28814747",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "心房颤动的心电图诊断标准？",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "13",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "R-R间期不规则"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "持续时间≥30秒，无明显重复P波，且R-R间期不规则"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "持续时间≥15秒，无明显重复P波，且R-R间期不规则"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "持续时间≥10秒，无明显重复P波，且R-R间期不规则"
+                            }
+                        ],
+                        "code": "28814748",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "通过单导联智能监测设备记录的心电图诊断心房颤动的标准包括哪些？",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "B"
+                        ],
+                        "questionNum": "14",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "抗凝和卒中预防"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "更好的症状管理"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "优化合并症和心血管危险因素的管理"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "以上都是"
+                            }
+                        ],
+                        "code": "28814749",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "心房颤动的治疗理念包括哪些？",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "15",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "400-808-5531"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "12320"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "400-888-5531"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "400-800-5531"
+                            }
+                        ],
+                        "code": "28814765",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "全国专业戒烟热线号码为？",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "A"
+                        ],
+                        "questionNum": "16",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "自 QRS 波群的终点至T波起点间的线段"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "自QRS波群的起点至T波终点间的线段"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "自QRS波群的起点至T波起点间的线段"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "自QRS波群的终点至T波终点间的线段"
+                            }
+                        ],
+                        "code": "28814751",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "心电图ST段的意义是",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "A"
+                        ],
+                        "questionNum": "17",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "I、Ⅱ、Ⅲ"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "AVR、AVL、AVF"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "V1、V2、V3、V4、V5、V6"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "I、Ⅱ、Ⅲ、AVR、AVL、AVF"
+                            }
+                        ],
+                        "code": "28814752",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "额面心电图导联主要指哪些导联？",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "18",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "代表心室除极"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "代表心室快速复极时的电位变化"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "代表心脏缺血"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "代表心肌梗死"
+                            }
+                        ],
+                        "code": "28814753",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "心电图T波的意义是",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "B"
+                        ],
+                        "questionNum": "19",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "心肌酶+胸痛症状"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "心肌酶+心电图"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "心肌酶+彩超"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "心肌酶+胸痛症状、心电图动态改变或心脏医学影像学方面改变"
+                            }
+                        ],
+                        "code": "28814754",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "心梗诊断“1+1”模式以下叙述正确完整的是？",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "20",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "头胸导联"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "V3R～V5R导联"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "V7～V9导联"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "V3R～V5R导联和V7～V9导联"
+                            }
+                        ],
+                        "code": "28814755",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "怀疑患者有急性下壁心肌梗死时，常规心电图记录应加做",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "21",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "Q波振幅<1/4R"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "Q波时间<0.04s"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "V1～V3导联可有小Q波"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "V1导联可呈QS波"
+                            }
+                        ],
+                        "code": "28814756",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "关于正常人Q波的描述，错误的是",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "C"
+                        ],
+                        "questionNum": "22",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "aVR导联Q波再大也无意义"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "QRS心电轴左偏时，III、aVF导联可出现Q波"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "QRS心电轴右偏时，aVL导联可出现Q波"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "异常 Q波表明有心肌坏死"
+                            }
+                        ],
+                        "code": "28814757",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "关于Q 波的描述，错误的是",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "23",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "Ⅱ、Ⅲ 、aVF"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "aVR、V1"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "V1～V3"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "V1 ～V6、Ⅰ、aVL"
+                            }
+                        ],
+                        "code": "28814758",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "广泛前壁急性心肌梗塞的定位，主要在哪组导联出现坏死性Q波",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "24",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "Ⅰ、aVL、V5～V7"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "V1～V3"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "V5 ～V7"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "V1～V3、Avl"
+                            }
+                        ],
+                        "code": "28814759",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "高侧壁心肌梗塞的定位，主要在",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "A"
+                        ],
+                        "questionNum": "25",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "Ⅱ、Ⅲ 、aVF 出现异常Q波，时间＞0.04s"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "Ⅰ、aVL出现异常Q波，时间＞0.04s"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "Ⅱ、Ⅲ 、aVF S-T段弓背向上抬高与T波融合形成单向曲线"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "V7～V8. 出现异常Q波，时间＞0.04s"
+                            }
+                        ],
+                        "code": "28814760",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "急性下壁心肌梗塞的心电图诊断包括",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "C"
+                        ],
+                        "questionNum": "26",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "吸烟"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "焦油"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "尼古丁"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "甲醛"
+                            }
+                        ],
+                        "code": "28814761",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "烟草制品中产生依赖的成分是什么？",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "C"
+                        ],
+                        "questionNum": "27",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "吸烟渴求"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "焦虑、抑郁"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "发烧"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "注意力不集中"
+                            }
+                        ],
+                        "code": "28814762",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "下列哪些症状不属于烟草依赖的临床表现？",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "C"
+                        ],
+                        "questionNum": "28",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "2分"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "3分"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "4分"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "5分"
+                            }
+                        ],
+                        "code": "28814763",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "男性，45岁，规律吸烟20年，每日吸烟25支，早晨醒来后约15分钟吸第一支烟，根据吸烟严重度指数（HSI），该患者的烟草依赖程度评分为",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "C"
+                        ],
+                        "questionNum": "29",
+                        "userDoQuestionStatus": 1
+                    },
+                    {
+                        "optionalContent": [
+                            {
+                                "contentType": 0,
+                                "mark": "A",
+                                "chooseContent": "尼古丁贴片/尼古丁咀嚼胶"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "B",
+                                "chooseContent": "伐尼克兰"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "C",
+                                "chooseContent": "安非他酮"
+                            },
+                            {
+                                "contentType": 0,
+                                "mark": "D",
+                                "chooseContent": "金雀花碱"
+                            }
+                        ],
+                        "code": "28814764",
+                        "typeDesc": "单选题",
+                        "userCollection": 2,
+                        "isOption": 0,
+                        "title": "下列不属于一线戒烟药物的是？",
+                        "type": 1,
+                        "resultDesc": "",
+                        "difficulty": 1,
+                        "score": 5.0,
+                        "answer": [
+                            "D"
+                        ],
+                        "questionNum": "30",
+                        "userDoQuestionStatus": 1
+                    }
+                ]
+            }
+        ],
+        "totalTime": 1800,
+        "name": "国家基层高血压防治管理指南（2020版）培训项目（学后）",
+        "batchId": 39850369,
+        "type": 1,
+        "totalScore": 150,
+        "remainderTime": 1800
+    },
+    "message": "请求成功"
+}

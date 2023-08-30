@@ -1,0 +1,1081 @@
+
+[
+    {
+        'moduleTypeDesc': '单选题',
+        'moduleType': 1,
+        'questionList': [
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '一旦确诊，早期治疗'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '医生可以充分考虑处方超适应症药物'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent':
+'治疗前要让患者知情药物的起效、疗程、可能的不良反应(如治疗初期可能会加重焦虑症
+)等'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent':
+'评估影响患者疗效的因素，选择合适药物和治疗场所进行治疗'
+                    }
+                ],
+                'code': '28814780',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '高血压并发情绪问题的治疗原则？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['B'],
+                'questionNum': '1',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '运动频率'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '运动强度'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '运动时间'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '运动类型'
+                    }
+                ],
+                'code': '28814766',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '运动处方四要素的核心是',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['B'],
+                'questionNum': '2',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '180/110mmHg'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '180/120mmHg'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '190/115mmHg'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '200/120mmHg'
+                    }
+                ],
+                'code': '28814767',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '高血压患者的运动禁忌症是安静时血压超过？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['A'],
+                'questionNum': '3',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '≥90次/分钟'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '≥100次/分钟'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '≥110次/分钟'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '≥120次/分钟'
+                    }
+                ],
+                'code': '28814768',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '步行6分钟后桡动脉率多少相当于中等强度运动？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['B'],
+                'questionNum': '4',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '加强热身活动'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '降低运动强度'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '缩短运动时间'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '运动后进行充分的整理活动'
+                    }
+                ],
+                'code': '28814769',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title':
+'应用血管扩张剂降压的患者，为了预防低血压事件，运动时应注意：',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['D'],
+                'questionNum': '5',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '3-5次/分钟'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '5-10次/分钟'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '10-15次/分钟'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '15-20次/分钟'
+                    }
+                ],
+                'code': '28814770',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '服用β受体阻滞剂的患者，运动时的靶心率应减去',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['B'],
+                'questionNum': '6',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '2200mg以内'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '2500mg以内'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '2000mg以内'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '1000mg以内'
+                    }
+                ],
+                'code': '28814771',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '低盐膳食要求全天膳食钠摄入控制量是多少？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['C'],
+                'questionNum': '7',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {'contentType': 0, 'mark': 'A', 'chooseContent': '7克'},
+                    {'contentType': 0, 'mark': 'B', 'chooseContent': '6克'},
+                    {'contentType': 0, 'mark': 'C', 'chooseContent': '3克'},
+                    {'contentType': 0, 'mark': 'D', 'chooseContent': '8克'}
+                ],
+                'code': '28814772',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title':
+'根据《国家基层高血压防治管理指南2020版》推荐，高血压患者每日膳食食盐摄入的适宜
+量是多少？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['B'],
+                'questionNum': '8',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '18-23kg/m2'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '18.5-23.9kg/m2'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '18.5-27.9kg/m2'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '18-24kg/m2'
+                    }
+                ],
+                'code': '28814773',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '高血压患者的适宜体重BMI范围是多少？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['B'],
+                'questionNum': '9',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '饮酒量不宜超过2两/日'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '酒精量女性不宜超过25克'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '饮酒量啤酒饮酒量不宜超过2两/日'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent':
+'推荐不饮酒，目前在饮酒的高血压患者，建议戒酒'
+                    }
+                ],
+                'code': '28814774',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '高血压患者如果饮酒，如何建议？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['D'],
+                'questionNum': '10',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '馒头、米饭'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '蘑菇、芥蓝'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '牛奶、豆腐'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '鸡蛋、西红柿'
+                    }
+                ],
+                'code': '28814775',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '下列哪组食物是富含钾的食物？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['B'],
+                'questionNum': '11',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '幻觉妄想等精神病性症状'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '抑郁焦虑等情绪问题'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '痴呆等认知问题'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '狂躁冲动等行为问题'
+                    }
+                ],
+                'code': '28814776',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '高血压患者容易并发哪种常见精神心理问题？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['B'],
+                'questionNum': '12',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '西西弗斯(Sisyphus)反应'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': 'A型性格或A型行为'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '白大衣高血压'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '有氧运动'
+                    }
+                ],
+                'code': '28814777',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '以下哪种不属于精神压力因素所致血压过度反应？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['D'],
+                'questionNum': '13',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': 'ZUNG焦虑自评量表(SAS)'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': 'ZUNG抑郁自评量表(SDS)'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '社交沟通量表(SCQ)'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '失眠严重指数量表(ISI)'
+                    }
+                ],
+                'code': '28814778',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title':
+'以下哪种心理测评量表不常用于筛查高血压患者并发情绪问题？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['C'],
+                'questionNum': '14',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent':
+'全面考虑患者症状谱特点(如是否伴有失眠)、年龄、躯体疾病状况、有无合并症、药物
+的耐受性等，尽量做到个体化用药'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent':
+'剂量逐步递增，采用最低有效量，使出现不良反应的可能性降到最低'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent':
+'与患者有效沟通治疗方法、药物的性质、作用、可能不良反应及对策，增加患者治疗依从
+性'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent':
+'对高血压伴焦虑症状采用大剂量苯二氮卓类药物大剂量冲击治疗以尽快控制症状'
+                    }
+                ],
+                'code': '28814779',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title':
+'《在心血管科就诊患者的心理处方中国专家共识》指出药物治疗中要注重用药安全性，不
+包括以下那项内容？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['D'],
+                'questionNum': '15',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '天麻钩藤饮'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '血府逐瘀汤'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '半夏白术天麻汤'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '杞菊地黄丸'
+                    }
+                ],
+                'code': '28814795',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '高血压肝肾阴虚证可选择以下哪个方剂',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['D'],
+                'questionNum': '16',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '脑卒中和冠心病'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '肿瘤和呼吸系统疾病'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '糖尿病和冠心病'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '脑卒中和肝硬化'
+                    }
+                ],
+                'code': '28814781',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '目前威胁中国人前二位死亡原因是',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['A'],
+                'questionNum': '17',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '缺少运动与久坐'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '高油高盐高热量食物'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '焦虑紧张'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '年龄与心血管病家族史'
+                    }
+                ],
+                'code': '28814782',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '在以下导致非传染病性慢性病发病的多种危险因素中，除（
+）外其余的危险因素都可以改变？',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['D'],
+                'questionNum': '18',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '仔细倾听病人的困惑，担心和期望'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '具体解释慢病对机体健康的威胁'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent':
+'善于用讲故事等生动形式激励病人积极治疗'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '包括以上所有方法'
+                    }
+                ],
+                'code': '28814783',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '改变病人对高血压、糖尿病达标治疗不重视的方法有',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['D'],
+                'questionNum': '19',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent':
+'直接批评患者，说如果不纠正会影响疾病康复'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '告诉家属要严管病人'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent':
+'启发患者，开展对问题的讨论，逐步取得共识'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '警告患者如果不纠正坏习惯，随时猝死'
+                    }
+                ],
+                'code': '28814784',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '当发现患者存在不良生活方式或习惯时，医生应该',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['C'],
+                'questionNum': '20',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent':
+'尿微量白蛋白定量与尿微量白蛋白/尿肌酐比'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '正位X线胸片'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '心电图检查'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '包括以上项目'
+                    }
+                ],
+                'code': '28814785',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title':
+'要形象地解读慢病对人体的伤害，可以选择以下临床哪种检查项目',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['D'],
+                'questionNum': '21',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {'contentType': 0, 'mark': 'A', 'chooseContent': '血海'},
+                    {'contentType': 0, 'mark': 'B', 'chooseContent': '太溪'},
+                    {'contentType': 0, 'mark': 'C', 'chooseContent': '丰隆'},
+                    {'contentType': 0, 'mark': 'D', 'chooseContent': '合谷'}
+                ],
+                'code': '28814786',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '高血压夹痰常选择以下哪个穴位',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['C'],
+                'questionNum': '22',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '百会、足三里、肝俞、太冲'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '合谷、太冲、侠溪、行间'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '太溪、太冲、侠溪、三阴交'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '足临泣、外关、头维、率谷'
+                    }
+                ],
+                'code': '28814787',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '高血压肝阳上亢证型针灸治疗选穴为',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['B'],
+                'questionNum': '23',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '手厥阴心包经，足少阳胆经，足厥阴肝经'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent':
+'手少阴心经，手阳明大肠经，足太阳膀胱经'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '足少阴肾经，足厥阴肝经，足太阳膀胱经'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '足少阳胆经，足厥阴肝经，足少阴肾经'
+                    }
+                ],
+                'code': '28814788',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '高血压刮痧治疗时选取的主要经络为',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['C'],
+                'questionNum': '24',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '山药、莲子、大枣'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '山楂、丝瓜、柑橘、'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '冬瓜、白萝卜、薏仁'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '绿豆、苦瓜、薏仁'
+                    }
+                ],
+                'code': '28814789',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '脾虚体质的人群建议食用',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['A'],
+                'questionNum': '25',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '三阴交、涌泉'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '合谷、太冲'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '太阳、风池'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '侠溪、行间'
+                    }
+                ],
+                'code': '28814790',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '中药穴位贴敷治疗高血压肝肾阴虚证患者，选穴为',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['A'],
+                'questionNum': '26',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '风阳上亢'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '瘀血阻滞'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '肝风夹痰'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '阳气亏虚'
+                    }
+                ],
+                'code': '28814791',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title':
+'下列哪个是《国家基层高血压防治管理指南2020版》中高血压常见的中医分型',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['A'],
+                'questionNum': '27',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '五心烦热'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '面红目赤'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '腰膝酸软'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '失眠多梦'
+                    }
+                ],
+                'code': '28814792',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '下列哪些症状是高血压风阳上亢证患者的临床表现',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['B'],
+                'questionNum': '28',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '天麻钩藤饮'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '血府逐瘀汤'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '半夏白术天麻汤'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '杞菊地黄丸'
+                    }
+                ],
+                'code': '28814793',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '高血压风阳上亢证可选择以下哪个方剂',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['A'],
+                'questionNum': '29',
+                'userDoQuestionStatus': 1
+            },
+            {
+                'optionalContent': [
+                    {
+                        'contentType': 0,
+                        'mark': 'A',
+                        'chooseContent': '早期观念'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'B',
+                        'chooseContent': '因地制宜'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'C',
+                        'chooseContent': '整体观念'
+                    },
+                    {
+                        'contentType': 0,
+                        'mark': 'D',
+                        'chooseContent': '针药并用'
+                    }
+                ],
+                'code': '28814794',
+                'typeDesc': '单选题',
+                'userCollection': 2,
+                'isOption': 0,
+                'title': '中医辨治高血压特别强调',
+                'type': 1,
+                'resultDesc': '',
+                'difficulty': 1,
+                'score': 5.0,
+                'answer': ['C'],
+                'questionNum': '30',
+                'userDoQuestionStatus': 1
+            }
+        ]
+    }
+]
